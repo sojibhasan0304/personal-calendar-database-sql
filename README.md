@@ -39,18 +39,6 @@ Stores reminder details for users and events, including reminder description, st
 - T-SQL
 - SQL Server Management Studio
 
-## Repository Structure
-
-```text
-.
-├── README.md
-├── PROJECT_REPORT.md
-├── docs/
-│   └── HASAN_SOJIB_MODIFY_SQL_REPORT.pdf
-└── sql/
-    └── personal_calendar_database.sql
-```
-
 ## How to Run the SQL Project
 
 1. Open Microsoft SQL Server Management Studio.
@@ -69,10 +57,4 @@ sql/personal_calendar_database.sql
 
 4. Execute the script step by step or run the full script.
 5. Check the inserted data and output queries using `SELECT` statements.
-
-## Report
-
-The full project report is included in the `docs` folder:
-
-A GitHub-friendly written report is also available here:
 
