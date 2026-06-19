@@ -1,6 +1,6 @@
 # Personal Calendar Database Design
 
-A Microsoft SQL Server database project for a personal calendar and event reminder system. The project demonstrates relational database design, table creation, data insertion, SQL queries, views, triggers, stored procedures, and user-defined functions using T-SQL.
+A Microsoft SQL Server database project for a personal calendar and event reminder system. The project demonstrates relational database design, table creation, data insertion, SQL queries, views, triggers, stored procedures, and user-defined functions using SQL.
 
 ## Project Overview
 
